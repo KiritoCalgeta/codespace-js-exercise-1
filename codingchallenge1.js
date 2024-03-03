@@ -9,7 +9,6 @@
 // console.log(reverseArray([1, 2, 3, 4, 5]));
 // console.log(reverseArray(["I", "like", "JavaScript"]));
 
-
 const items = [
     { item: "irn bru", price: 3.25, stock: 50 },
     { item: "fanta", price: 3.98, stock: 45 },
